@@ -15,7 +15,7 @@ Installation
 
 Simply use `go install`:
 
-    go get github.com/ds-forks/go-serial
+    go get github.com/ds-forks/go-serial/serial
     go install github.com/ds-forks/go-serial/serial
 
 To update later:
